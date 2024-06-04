@@ -1,0 +1,35 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction:column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  .m-w-20{
+    max-width: 30vw;
+  } 
+   .mx-auto{
+    margin: auto;
+  }
+  .bc{
+    width: 300px;
+  border: 5px solid black;
+  padding: 50px;
+  margin: 20px;
+  }
+  
+
+
+
+  
